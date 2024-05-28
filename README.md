@@ -22,7 +22,7 @@ A QOL mod for Hypixel Skyblock.
 - **Block Overlay** - Customizable block overlay
 - **Chest ESP** - See chests through walls
 - **Etherwarp Helper** - Various options for etherwarp
-- **No Debuf** - Removes unwanted debuffs
+- **No Debuff** - Removes unwanted debuffs
 
 ### Skyblock
 - **Wardrobe** - Set keys for wardrobe slots
