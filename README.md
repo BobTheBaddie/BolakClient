@@ -32,4 +32,4 @@ A QOL mod for Hypixel Skyblock.
 - **Terminator AC** - Automatically left clicks terminator when holding right click
 - **Toggle Sprint** - Automatically sprints
 - **No Slow** - Gets rid of slow effects and removes sword blocking ⚠
-- **Kill Aura** - Kills different mobs ⚠️
+- **Kill Aura** - Kills different mobs ⚠
