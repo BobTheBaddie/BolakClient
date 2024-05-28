@@ -1,6 +1,9 @@
 # BolakClient
 A QOL mod for Hypixel Skyblock.
 
+## Info
+This mod is undetectable against Watchdog (Be careful with dangerous/marked features) and will not get you banned unless used irresponsibly.
+
 ## Features
 
 ### Dungeons
