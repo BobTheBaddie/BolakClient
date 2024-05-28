@@ -3,7 +3,7 @@ A QOL mod for Hypixel Skyblock.
 
 ## Features
 
-# Dungeons
+### Dungeons
 - **Triggerbot** - Automatically click blood mobs, spirit bear, crystals and secrets
 - **Starred Mob ESP** - See starred mobs and minibosses through walls
 - **Secret Hitboxes** - Change the hitboxes of levers and chests to full blocks
@@ -16,7 +16,7 @@ A QOL mod for Hypixel Skyblock.
 - **Hover Terminals** - Clicks the hovered item in a terminal if correct
 - **Move Terminals** - Move while completing a terminal ⚠
 
-# Rendering
+### Rendering
 - **Nick** - Replaces your username with the given nick
 - **Space Helmet** - Changes your helmet to a space helmet
 - **Block Overlay** - Customizable block overlay
@@ -24,7 +24,7 @@ A QOL mod for Hypixel Skyblock.
 - **Etherwarp Helper** - Various options for etherwarp
 - **No Debuf** - Removes unwanted debuffs
 
-# Skyblock
+### Skyblock
 - **Wardrobe** - Set keys for wardrobe slots
 - **Chocolate Factory** - Automatically plays chocolate factory
 - **Auto Experiments** - Automatically completes experiments
